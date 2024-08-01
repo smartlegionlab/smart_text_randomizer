@@ -19,7 +19,11 @@ Author and developer: ___A.A. Suvorov.___
 
 ## What is news:
 
-- smart_text_randomizer v0.0.1
+smart_text_randomizer v0.0.2
+
+- Fixed bugs.
+- Added documentation.
+- Improved security. random was replaced with secrets.
 
 ***
 
