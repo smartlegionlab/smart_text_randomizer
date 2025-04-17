@@ -4,6 +4,7 @@ Smart Text Randomizer.
 
 ---
 
+[![PyPI Downloads](https://static.pepy.tech/badge/smart-text-randomizer)](https://pepy.tech/projects/smart-text-randomizer)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart_text_randomizer)](https://github.com/smartlegionlab/smart_text_randomizer/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smart_text_randomizer?label=pypi%20downloads)](https://pypi.org/project/smart_text_randomizer/)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart_text_randomizer)
